@@ -11,7 +11,7 @@ Updates spreadsheet csv ticker files with OHLC &amp; volume &amp; splits files
 
 // ----------------------------------------------------------------------------------------------------------------------------------
 // IMPORTANT !!!
-YOU MUST EEAD, INSTALL AND CONFIGURE THE Avapi library AS EXPLAINED IN THE FOLLOWING README GITHUB WEBSITE LINK: "https://github.com/AvapiDotNet/AvapiCpp" BEFORE PROCEEDING TO THIS README FILE . WITHOUT THE AVAPI LIBRARY THE PROGRAM WON'T RUN
+YOU MUST READ, INSTALL AND CONFIGURE THE Avapi library AS EXPLAINED IN THE FOLLOWING README GITHUB WEBSITE LINK: "https://github.com/AvapiDotNet/AvapiCpp" BEFORE PROCEEDING TO THIS README FILE . WITHOUT THE AVAPI LIBRARY THE PROGRAM WON'T RUN
 // ----------------------------------------------------------------------------------------------------------------------------------
 
 
