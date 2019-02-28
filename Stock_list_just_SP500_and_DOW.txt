@@ -1,0 +1,8 @@
+// In order for the program to work you MUST ENTER THE API KEY IN THE NEXT LINE
+My personal api key: 
+
+Indices/^GSPC,S&P 500,,,,,,,,,,
+Indices/^DJI,Dow 30,,,,,,,,,,
+Indices/^IXIC,Nasdaq,,,,,,,,,,
+
+
