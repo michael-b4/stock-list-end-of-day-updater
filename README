@@ -1,7 +1,7 @@
-# StockEndOfDayUdater
+# stock-list-end-of-day-updater
 Updates spreadsheet csv ticker files with OHLC &amp; volume &amp; splits files
 
-// Alpha Vantage Stock list End of Day Updater for Linux
+// Stock list End of Day Updater for Linux using Alpha Vantage api
 
 // Author: Michael B. 2019 using Linux Mint Mate and C++11
 
