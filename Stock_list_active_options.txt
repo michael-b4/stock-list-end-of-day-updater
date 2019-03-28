@@ -1,0 +1,45 @@
+
+My personal api key: 
+
+// ===========================,,,,,,,,,,,
+//         Indices,,,,,,,,,,,
+// ===========================,,,,,,,,,,,
+,,,,,,,,,,,
+,// source: https://www.alpha-vantage.community/post/world-indexes-9627480,,,,,,,,,,
+,// Symbol,Name,,,,,,,,,
+
+Indices/^GSPC,S&P 500,,,,,,,,,,
+Indices/^DJI,Dow 30,,,,,,,,,,
+Indices/^IXIC,Nasdaq,,,,,,,,,,
+Indices/^NYA,NYSE COMPOSITE (DJ),,,,,,,,,,
+Indices/^XAX,NYSE AMEX COMPOSITE INDEX,,,,,,,,,,
+Indices/^BATSK,BATS 1000 Index,,,,,,,,,,
+Indices/^RUT,Russell 2000,,,,,,,,,,
+Indices/^VIX,Vix,,,,,,,,,,
+
+
+// Best Stocks for Options Trading
+// https://www.optionsbro.com/best-stocks-for-options-trading/
+
+BAC,Bank of America Corp
+FB,Facebook
+MU,Micron Technology, Inc
+GE,General Electric Company
+AAPL,Apple Inc.
+AMD,Advanced Micro Devices, Inc.
+BABA,Alibaba Group Holding Limited
+NFLX,Netflix, Inc.
+TSLA,Tesla, Inc.
+
+// Top ETF options
+ETF/SPY
+ETF/QQQ
+ETF/IWM
+ETF/XLE
+ETF/XLY
+ETF/TLT
+
+ETF/SLV,Silver ETF
+ETF/GLD,SPDR Gold Trust ETF
+ETF/UNG,United States Natural Gas Fund ETF
+ETF/USO,United States Oil Fund
