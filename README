@@ -1,7 +1,11 @@
 # stock-list-end-of-day-updater
-Updates spreadsheet csv ticker files with OHLC &amp; volume &amp; splits files
 
-// Stock list End of Day Updater for Linux using Alpha Vantage api
+Input:  A txt list of stock tickers, ETF's & Indices
+Output:
+Updates spreadsheet csv ticker files with historical OHLC ,volume &amp; splits files data
+in the format of the Yahoo website csv file with true prices not adjusted and and a seperate splits file for each ticker
+
+// Historical Stock list End of Day data Updater for Linux using Alpha Vantage api
 
 // Author: Michael B. 2019 using Linux Mint Mate and C++11
 
